@@ -46,6 +46,12 @@ nav ul li a:hover {
     border-radius: var(--border-radius);
 }
 
+nav ul li a.active {
+    color: var(--primary-color);
+    background-color: var(--bg-color);
+    border-radius: var(--border-radius);
+}
+
 h1 {
     text-align: center;
 }
